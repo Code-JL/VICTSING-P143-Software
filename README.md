@@ -1,4 +1,4 @@
-# VICTSING-P143-Software
+# VICTSING P143 Software
 
 ## Windows ONLY.
 
