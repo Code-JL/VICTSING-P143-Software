@@ -28,4 +28,10 @@ Click "Send to", then click "Desktop"
 
 you will now have the shortcut on your desktop. If you want it to look better you can change the Icon to the "C:\Program Files (x86)\VICTSING Gaming Mouse\appico.ico" file.
 
+## Other
+
+If you have a different VICTSING mouse you can try this website, they are the people who made the drivers for all* of VICTSINGs mouses.
+
+[https://oemdrivers.com/mouse](https://oemdrivers.com/mouse)
+
 PS: I have had my VICTSING P143A for about 7 years now, It's a great mouse and has never let me down.
